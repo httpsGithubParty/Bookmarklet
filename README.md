@@ -1,7 +1,9 @@
 # Bookmarklet
 Bookmarklet that submit the url and title to https://github.party
+[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=6)
 
 ```
 javascript:window.location=%22https://github.party/submitlink?u=%22+encodeURIComponent(document.location)+%22&t=%22+encodeURIComponent(document.title)
-``
-FYI: The title might  not that good,so please remeber to change it by yourself.`
+```
+
+FYI: The title might  not that good,so please remeber to change it by yourself.:smile:
