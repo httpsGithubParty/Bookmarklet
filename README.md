@@ -1,4 +1,4 @@
-# Bookmarklet [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=6)
+Bookmarklet [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=6)
 -
 Bookmarklet that submit the url and title to https://github.party
 
