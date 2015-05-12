@@ -2,6 +2,8 @@
 -
 Bookmarklet that submit the url and title to https://github.party
 
+To install, visit https://github.party/bookmarklet.html
+
 
 ```
 javascript:window.location=%22https://github.party/submitlink?u=%22+encodeURIComponent(document.location)+%22&t=%22+encodeURIComponent(document.title)
